@@ -1,4 +1,6 @@
 LearningEnigma
 ==============
 
-Python implementation of Enigma (WWII cipher machine) for instructional purposes
+Python implementation of Enigma (WWII cipher machine) for educational purposes
+
+
